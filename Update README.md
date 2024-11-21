@@ -20,23 +20,10 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# penhor Flex;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+📒 Descrição Criação de um novo produto bancário que utiliza bens preciosos como garantia, ampliando as funcionalidades do crédito Penhor da CAIXA. Este novo produto, chamado "Penhor Flex", permite que os clientes utilizem diferentes tipos de bens preciosos (ouro, prata, diamantes, joias) como colateral para obter crédito, com condições mais flexíveis e atrativas do que as existentes. 🤖 Tecnologias Utilizadas Modelos de IA para avaliação de bens preciosos Blockchain para registro e rastreamento de bens penhorados Ferramentas de análise de risco e crédito Aplicações web e móveis para atendimento ao cliente 🧐 Processo de Criação Pesquisa e Análise: Estudo das normas e regulamentos do crédito Penhor existente, identificando oportunidades de melhoria e expansão. Desenvolvimento de Modelos de IA: Implementação de modelos de IA treinados para avaliar e autenticar bens preciosos, garantindo precisão e segurança. Integração com Blockchain: Desenvolvimento de um sistema de registro baseado em blockchain para assegurar a rastreabilidade e transparência dos bens penhorados. Desenvolvimento de Aplicações: Criação de plataformas web e móveis para facilitar a interação dos clientes com o novo produto, oferecendo simulações, consultas e gestão dos penhores. Teste e Validação: Realização de testes rigorosos para garantir a eficácia e segurança do novo produto. Lançamento e Marketing: Planejamento de campanhas de marketing para promover o "Penhor Flex", destacando suas vantagens e diferenciais. 🚀 Resultados Maior Acessibilidade ao Crédito: Clientes com diferentes tipos de bens preciosos agora têm acesso a crédito com condições mais flexíveis. Transparência e Segurança: Uso de blockchain para o registro dos bens penhorados, garantindo transparência e segurança. Precisão na Avaliação: Modelos de IA melhoraram a precisão na avaliação dos bens preciosos, aumentando a confiabilidade do serviço. Facilidade de Uso: Aplicações web e móveis proporcionaram uma experiência de usuário mais intuitiva e conveniente. 💭 Reflexão (Opcional) O desafio de criar um produto 'natty' com IA foi garantir que as tecnologias fossem integradas de forma a realmente agregar valor ao usuário final. A combinação de IA para avaliação de bens preciosos e blockchain para registro trouxe uma camada de inovação e confiança ao produto, que esperamos que seja bem recebido pelo mercado.
 
 ### Exemplos e Insigths
 
